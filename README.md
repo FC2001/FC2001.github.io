@@ -1,69 +1,97 @@
-Privacy Policy
-This privacy policy is applicable to the Memories app (hereinafter referred to as "Application") for mobile devices, which was developed by Fernando Costa & Pedro Mendes (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
+Política de Privacidade
 
+Última atualização: 14 de fevereiro de 2026
 
-What information does the Application obtain and how is it used?
-What information do users provide to the Application?
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+1. Informações Recolhidas
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+A aplicação Memories poderá recolher os seguintes dados:
 
+Identificador do utilizador (User ID)
 
-What information does the Application collect automatically?
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+Descrição associada à fotografia
 
+Localização geográfica (latitude e longitude)
 
-Does the Application collect precise real time location information of the device?
-This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Fotografia capturada pela câmara ou selecionada da galeria
 
-Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+A recolha destes dados ocorre apenas quando o utilizador utiliza as funcionalidades da aplicação e concede as permissões necessárias.
 
-Does the Application use Artificial Intelligence (AI) technologies?
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+2. Utilização dos Dados
 
+Os dados recolhidos são utilizados exclusivamente para:
 
-Do third parties see and/or have access to information obtained by the Application?
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Guardar e associar memórias fotográficas ao utilizador
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Registar a localização onde a fotografia foi captada
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Permitir a visualização e organização das memórias na aplicação
 
-What are my opt-out rights?
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Os dados não são utilizados para fins comerciais, publicidade ou marketing.
 
+3. Permissões da Aplicação
 
-What is the data retention policy and how can you manage your information?
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at aluno24346@ipt.pt and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+A aplicação pode solicitar as seguintes permissões:
 
+Câmara – para capturar fotografias
 
-How does the Application address children's privacy?
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Galeria/Armazenamento – para selecionar imagens existentes
 
+Localização (GPS) – para registar o local associado à memória
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (aluno24346@ipt.pt) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Estas permissões são solicitadas apenas quando necessárias e podem ser revogadas nas definições do dispositivo.
 
+4. Partilha de Informações
 
-How is your information kept secure?
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+Os dados recolhidos:
 
+Não são vendidos
 
-How will you be informed of changes to this Privacy Policy?
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Não são partilhados com terceiros para fins comerciais
 
+São utilizados apenas no âmbito do funcionamento da aplicação
 
-This privacy policy is effective as of 2026-02-14
+Poderão ser armazenados numa API desenvolvida para suporte técnico da aplicação.
 
+5. Segurança dos Dados
 
-How do you give your consent?
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+São aplicadas medidas técnicas adequadas para proteger os dados contra acesso não autorizado, alteração ou divulgação indevida.
 
+No entanto, nenhum sistema é totalmente seguro, pelo que recomendamos que os utilizadores protejam o seu dispositivo com mecanismos de segurança adequados.
 
-How can you contact us?
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at aluno24346@ipt.pt.
+6. Direitos do Utilizador
 
-This privacy policy page was generated by App Privacy Policy Generator
+Nos termos da legislação aplicável (incluindo o RGPD), o utilizador tem direito a:
+
+Aceder aos seus dados
+
+Solicitar a retificação de dados incorretos
+
+Solicitar a eliminação dos seus dados
+
+Para exercer estes direitos, poderá contactar:
+
+📧 aluno24346@ipt.pt
+
+📧 aluno24843@ipt.pt
+
+7. Sobre a Aplicação
+
+A Memories é um projeto desenvolvido com fins estritamente académicos, criado no âmbito da unidade curricular de Desenvolvimento de Aplicações Móveis.
+
+Esta aplicação tem como objetivo permitir ao utilizador guardar memórias fotográficas associadas a uma descrição e localização geográfica.
+
+O projeto não tem fins comerciais e foi desenvolvido para fins educativos, promovendo a aprendizagem nas áreas de:
+
+Programação Android
+
+Integração com APIs
+
+Gestão de permissões
+
+Localização GPS
+
+Segurança e proteção de dados
+
+8. Alterações à Política de Privacidade
+
+Esta Política de Privacidade poderá ser atualizada sempre que necessário. Recomenda-se a consulta periódica deste documento.
